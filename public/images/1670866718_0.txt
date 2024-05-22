@@ -1,0 +1,10 @@
+******web page ******
+
+username admin password 123456
+
+aaa authentication web default local 
+
+
+******** to save momery ****
+
+write momery 

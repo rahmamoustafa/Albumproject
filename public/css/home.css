@@ -1,0 +1,6 @@
+.yajra-datatable{
+    background-color: #FFF;
+}
+div.dataTables_wrapper div.dataTables_length select{
+    min-width: 75px;
+}
